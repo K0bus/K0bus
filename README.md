@@ -18,11 +18,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K0bus&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br>
+<img src="https://github-readme-stats.vercel.app/api?username=K0bus&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=K0bus&theme=tokyonight" alt="GitHub Streak" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0bus&hide=javascript,html,css,scss,less&theme=tokyonight&layout=compact">
-</p>
 
 ---
 
