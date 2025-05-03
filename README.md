@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm K0bus!</h1>
 
 <p align="center">
-  🧑‍💻 Java & Node.js Developer • 🎮 Minecraft Plugin Creator • 🛠️ Project Management Enthusiast
+  🧑‍💻 Java & PHP & Node.js Developer • 🎮 Minecraft Plugin Creator • 🛠️ Project Management Enthusiast
 </p>
 
 ---
@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=K0bus&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=K0bus&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0bus&hide=javascript,html&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0bus&hide=javascript,html,css,scss,less&theme=tokyonight&layout=compact">
 </p>
 
 ---
